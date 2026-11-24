@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Joey's WorpenWijzer PRO",
+  "short_name": "Joey's PRO",
+  "start_url": "./index.html?v=5.5",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f7f6",
+  "theme_color": "#ffffff",
+  "description": "Judo worpen, grondwerk en examens bij Joey's Judoschool Nijkerk",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
