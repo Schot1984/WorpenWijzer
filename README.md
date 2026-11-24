@@ -1,9 +1,7 @@
-# Joey’s WorpenWijzer PRO v5.5 – JOEY’S thema
+# Joey's WorpenWijzer PRO
 
-Upload `index.html`, `manifest.webmanifest`, `service-worker.js` en `icon.svg` naar de root van https://github.com/Schot1984/WorpenWijzer (branch main).
+Upload `index.html` naar de root van https://github.com/Schot1984/WorpenWijzer (bestaande index.html vervangen).
 
-Open na publicatie: https://schot1984.github.io/WorpenWijzer/index.html?v=5.5
+Nieuw: voor elk van de vier valbreekvormen een knop om de officiële Kodokan-video binnen de app af te spelen, plus een optionele, lokaal opgeslagen starttijd (mm:ss) per techniek. De Kodokan-bron publiceert geen geverifieerde tijdcodes: de velden blijven daarom leeg tot ze handmatig zijn vastgesteld. De bestaande voortgang en naam blijven behouden.
 
-De vormgeving is gebaseerd op het zwarte beeldmerk en de lichte, sportieve uitstraling van joeys-judoschool.nl. De oranje accentkleur is een ontwerpkeuze, geen officieel bevestigde kleurcode.
-
-Inhoud en opgeslagen voortgang blijven behouden, want de bestaande localStorage-sleutels zijn niet gewijzigd. Externe videolinks blijven extern. Het JOEY’S-beeldmerk in de header wordt vanaf de website geladen en vereist internet.
+Open daarna https://schot1984.github.io/WorpenWijzer/?v=6.0
