@@ -1,0 +1,1 @@
+Joey's WorpenWijzer PRO: upload index.html, controle-69.html en herstel.html direct naar de hoofdmap van GitHub WorpenWijzer. Open daarna https://schot1984.github.io/WorpenWijzer/herstel.html en klik op Cache opschonen en app openen. Dit laat lokale oefenvoortgang bestaan. Controleer daarna Mijn judotraject: totaal 69 oefeningen.
