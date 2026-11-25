@@ -1,7 +1,9 @@
-# Joey's WorpenWijzer PRO
+# Joey’s WorpenWijzer PRO — sportieve iconen
 
-Upload `index.html` naar de root van https://github.com/Schot1984/WorpenWijzer (bestaande index.html vervangen).
+Upload `index.html` naar de hoofdmap van https://github.com/Schot1984/WorpenWijzer en vervang de bestaande `index.html`.
 
-Nieuw: voor elk van de vier valbreekvormen een knop om de officiële Kodokan-video binnen de app af te spelen, plus een optionele, lokaal opgeslagen starttijd (mm:ss) per techniek. De Kodokan-bron publiceert geen geverifieerde tijdcodes: de velden blijven daarom leeg tot ze handmatig zijn vastgesteld. De bestaande voortgang en naam blijven behouden.
+Het is een visuele update op basis van de versie met 69 leeronderdelen. De pictogrammen zijn ingebouwde SVG-iconen, zodat er geen extern iconenpakket geladen hoeft te worden. Bestaande andere repositorybestanden (zoals `manifest.webmanifest`, `icon.svg` en `service-worker.js`) kun je behouden.
 
-Open daarna https://schot1984.github.io/WorpenWijzer/?v=6.0
+App: https://schot1984.github.io/WorpenWijzer/
+
+De bestaande opslagsleutels, techniekdata, videolinks en examenselecties zijn niet aangepast.
